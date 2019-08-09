@@ -103,3 +103,7 @@ celerybeat-schedule
 schema.json
 .venv
 env/
+
+### other
+for_del.py
+for_del2.py
